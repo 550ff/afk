@@ -1,7 +1,7 @@
 {
-	"ip":"survivalduniya.aternos.me",
-	"port": 25710,
-	"name": "afkbot1",
+	"ip":"survivalduniya.aternos.me:22985",
+	"port": 22985,
+	"name": "Always online",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 550550 550550",
