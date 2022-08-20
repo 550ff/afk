@@ -4,6 +4,6 @@
 	"name": "Always online",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register 550550 550550",
-	"login-cmd":"/login 550550"
+	"register-cmd":"/register 123456 123456",
+	"login-cmd":"/login 123456"
 }
